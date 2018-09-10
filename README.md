@@ -6,3 +6,7 @@ The domain is managed via google domains, the content is hosted in a google clou
 
 * [Domain mgmt](https://domains.google.com/registrar)
 * [Hosting mgmt](https://console.cloud.google.com/storage/browser/nemo.oudeis.fyi)
+* CSS sources
+	+ [markdowncss](https://github.com/markdowncss)
+	+ [markdown-css-themes](https://github.com/jasonm23/markdown-css-themes)
+	+ [markedstyle](http://markedstyle.com/styles)
