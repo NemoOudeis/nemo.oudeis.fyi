@@ -15,5 +15,5 @@ Time to capture those thoughts in writing.
 
 Stay tuned
 
-## [Interruptions and Meetings](./interruptions-and-meetings)
+## [Notifications and Meetings](./notifications-and-meetings)
 
