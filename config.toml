@@ -1,0 +1,4 @@
+baseURL = "http://nemo.oudeis.fyi/"
+languageCode = "en-us"
+title = "Oudeis Blog"
+theme = "tale"

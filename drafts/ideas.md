@@ -16,8 +16,6 @@
 
 try to spin post ideas from there
 
-
-
 ## Mentaly unhealthy Engineers
 
 * Inspiration from @rallat and authentic developer
@@ -46,3 +44,25 @@ try to spin post ideas from there
 - Sources of confidence and validation
 
 ## Depression everywhere
+
+## Emotions at Work Series
+### External recognition & reward
+### Identification & Alignment
+### Growth
+### Personal Performance
+
+I feel most productive at work when I…
+* …am able take ownership of my work
+* …am challenged but not overwhelmed by my work
+* …feel like other people regard me as important for that work
+* …feel like other people recognize my contribution
+* …feel sufficiently rewarded for my efforts
+* …learn new things as part of my work
+* …feel like my work matters, i.e. it has an effect on somebody's life
+* …feel my work is in sync with my personal and the organizations values
+
+I feel most worthless at work when I…
+* …have to participate in communications that I have nothing to add to
+* …feel like my opinion is not heard
+* …feel like my efforts were in vain
+* …feel like the organizations values are at conflict with my personal values

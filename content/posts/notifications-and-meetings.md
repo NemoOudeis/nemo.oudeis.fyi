@@ -1,11 +1,10 @@
 ---
-Title:    	Notifications and Meetings  
-Author:   	Nemo Oudeis  
-Date:     	September 10, 2018  
-CSS:      	./../blog.css  
+title:      Notifications and Meetings
+author:     Nemo Oudeis
+date:       2018-09-10
+lastmod:    2018-09-10
+draft:      false
 ---
-
-# [%Title]
 
 So I shut them down. 
 No more banners, no more app badges, no more sounds, no more jumping dock yelling at me about IM, email, calendar, ... well no app interrupts me anymore - unless I chose to.
@@ -25,6 +24,6 @@ While thinking about these things I came to the [Basecamp Employee Handbook](htt
 
 In the [Basecamp Employee Handbook](https://github.com/basecamp/handbook) I found that they produce the [Rework Podcast](https://rework.fm/) which I started listening to. There is great stuff in there and most importantly it genuinely feels like the people I hear an that show actually live and work by their handbook... actually not quite, it seems like the handbook is an expression of their work & life philosophy. Which excites me. Shortly after I watched Jason Frieds TED talk on "Why work doesn't happen at work"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5XD2kNopsUs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube 5XD2kNopsUs >}}
 
 Drawing some inspriation from his words I will log the number of scheduled meetings vs attended meetings vs meetings in which I am distracted. Moreover I will note down all the interruptions during the day (or at least try). I started today and the pure awareness of interruptions made me silence all the communication tools, turning them from communication that is pushed into my face into something I actively seek out. Pull >> Push. This has made for the most conscious Monday this year, I'm curious how the rest of the week turns out. I encourage you ot turn off all interruptions at work! Let me know how it worked for you at [nemo@oudeis.fyi](mailto:nemo@oudeis.fyi).
