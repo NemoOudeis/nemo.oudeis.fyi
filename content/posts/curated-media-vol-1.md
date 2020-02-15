@@ -1,16 +1,17 @@
 ---
 title:      Curated Media Vol 1
-date:       2020-02-06T23:01:12+09:00
-lastmod:    2020-02-06T23:01:12+09:00
+date:       2020-02-06
+lastmod:    2020-02-06
 author:     Nemo Oudeis
 draft:      false
+aliases:    
+  - /posts/curated-media-val-1/
+  - /posts/cmv1
 ---
 
 The best of media of early 2020. Everything is worth a read - good writng & good content. Enjoy!
 
 ## [Avalance School (NYT)](https://www.nytimes.com/2019/12/31/magazine/avalanche-school-heidi-julavits.html)
-
-![]()
 
 {{< figure src="https://static01.nyt.com/images/2020/01/05/magazine/05mag-avalanche/05mag-avalanche-superJumbo.jpg?quality=90&auto=webp" width="70%" >}}
 
