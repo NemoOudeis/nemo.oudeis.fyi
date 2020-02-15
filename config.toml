@@ -2,3 +2,5 @@ baseURL = "http://nemo.oudeis.fyi/"
 languageCode = "en-us"
 title = "Nemo Oudeis FYI"
 theme = "tale"
+[Author]
+    name = "Nemo Oudeis"
