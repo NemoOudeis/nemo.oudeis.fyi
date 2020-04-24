@@ -21,7 +21,6 @@ Murakami is great a creating mystical atmospheres and leaving his stories unsati
 
 {{< spotify-podcast "https://open.spotify.com/embed-podcast/episode/0u1VlmjNTWXVHAEV7JLHbi" >}}
 
-
 # [Book Publishing in the 2010s (n+1)](https://nplusonemag.com/issue-36/the-intellectual-situation/smorgasbords-dont-have-bottoms/)
 
 {{< figure src="https://nplusonemag.com/wp-content/uploads/2020/01/IS_Johnson-web.jpg" alt="Crumbled Amazon delivery box" width="70%" >}}
