@@ -6,9 +6,9 @@ author:     Nemo Oudeis
 draft:      true
 ---
 
-I haven't worked from the office since 20th of February. Most of my department in Rakuten hasn't been in the office in weeks/months, the one time I stopped by end of March to pickup a testing device and a big motinor I met about 4 people out of 70 or so, the office is a ghost town, with tumbleweeds and all. We've all adjusted our work and personal life significantly, we learned to cope as organiaztion and as individuals. These are some observations I made about myself, my team and what I heard from friends within the company -- all anecdotal evidence (as always). 
+I haven't worked from the office since 20th of February, that's a little over 2 months. Most of my department in Rakuten hasn't been in the office in weeks/months, the one time I stopped by end of March to pickup a testing device and a big monitor I met about 4 people out of 70 or so, the office is a ghost town, with tumbleweeds and all. We've all adjusted our work and personal life significantly, we learned to cope as organization and as individuals. These are some observations I made about myself, my team and what I heard from friends within the company -- all anecdotal evidence (as always). 
 
-So let's dive into it - what did we learn?
+So let's jump right into it - what did we learn?
 
 * From home we work just as effective & efficient
 * 9am - 5:30pm never really mattered
@@ -32,19 +32,19 @@ However that moment of grand ideas and stroke of genius, that happens once every
 
 [^1]: Jason Fried goes even further and says ["Work Doesn't Happen at Work" in his TED talk](https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work/transcript?language=en)
 
-Personally I am in a priviledged situation of: doing a lot of deep work, no kids around, decent sized apartment with desk and big montior (my chais is a bit sucky but hey, I really can't complain) and I'm more on the introvert end of the spectrum. From my personal perspective this is the most productive and efficient time I spent working at Rakuten.
+Personally I am in a privileged situation of: doing a lot of deep work, no kids around, decent sized apartment with desk and big monitor (my chair is a bit sucky but hey, I really can't complain) and I'm more on the introvert end of the spectrum. From my personal perspective this is the most productive and efficient time I spent working at Rakuten.
 
 In the teams I work with I see no significant shift in terms of output. I hear the same from manager within my department and in other departments as well. However I only spoke with people in technical departments, I have no idea how this affects the business-y work (which is the majority of the company).
 
-In the last 2 months I have seen several project progress significantly, all crowned by the interal release of a waterfall-y project we have been working on for over a year now. In terms of delivery covid didn't matter, work from home didn't stop us. We had some new infrastructure problems (e.g. it's hard to restart the mac mini CI machine remotely) - but no show stoppers.
+In the last 2 months I have seen several project progress significantly, all crowned by the internal release of a waterfall-y project we have been working on for over a year now. In terms of delivery covid didn't matter, work from home didn't stop us. We had some new infrastructure problems (e.g. it's hard to restart the mac mini CI machine remotely) - but no show stoppers.
 
 ## Forgetting the 9-to-5
 
-Rakuten is a strong believer in the strict busisness hours, at least at the start of the day. Several departments had morning meetings (朝礼) in the before times, with the whole department standing up and starting the day togther. Others have morning stadups in their teams at 9am. And some are less anal about it. However, the general rule is: be at your desk at 9 am. Be there until (at least) 5:30 pm.
+Rakuten is a strong believer in the strict business hours, at least at the start of the day. Several departments had morning meetings (朝礼) in the before times, with the whole department standing up and starting the day together. Others have morning stand-ups in their teams at 9am. And some are less anal about it. However, the general rule is: be at your desk at 9 am. Be there until (at least) 5:30 pm.
 
 Now that everyone working remotely most people actually don't need to be at their desk at 9 am, or finish work at 5:30 for that matter. If you have no meetings in the morning, nobody will notice if you start work by noon and work until 8:30 pm instead. I have a strong suspicion that many people are taking advantage of this flexibility that came as a side effect of working from home. I also suspect that nobody really notices and nobody is affected negatively by this.
 
-Will Raktuen Leadership remember this after covid is "over"? 
+Will Rakuten Leadership remember this after covid is "over"? 
 
 ## I've got so many meeting *hair toss* 
 
@@ -52,17 +52,16 @@ In some circles having a lot of meeting is a status symbol. More meetings = more
 
 In the before times most meeting made me feel like...
 
-![](https://media.giphy.com/media/dUKTqZzPwTdM4/source.gif)
+![Man in a meeting, gets up, jumps out of window.](https://media.giphy.com/media/dUKTqZzPwTdM4/source.gif)
 
-And for good reason [^2]. As our CISO/CTO Hirai-san told us just this week: Meetings are good for strategic decision making. I'll add that meetings can be good for information sharing with feedback, like announcing HR changes. I'm not entirely sure about specific sprint ceremonies like grooming, review and retrospectives.... In summary:
+And for good reason [^2]. As our CIO/CISO Hirai-san told us just this week: Meetings are good for strategic decision making. I'll add that meetings can be good for information sharing with feedback, like announcing HR changes that might cause confusion or anxiety. To be honest I'm not entirely sure if specific sprint ceremonies like grooming, review and retrospectives are best facilitated as meetings... but let's give them the benefit of the doubt. So that leaves us with a short list of (potentially) good meetings:
+: Strategic decision making
+: Information sharing that requires immediate feedback/clarification
+: Sprint ceremonies (maybe)
 
 [^2]: In the words of the [ReWork](http://rework.fm/) podcast ["Meetings Are Toxic"](https://m.signalvnoise.com/meetings-are-toxic/)
 
-Meeting are **good** for:
-: Strategic decision making
-: Information sharing that requires immediate feedback/clarification
-
-Meetings are **bad** for:
+On the other hand I can think of countless types of collaborative work that doesn't require a meeting, some example off the top of my head:
 : Status updates
 : Design/Code review
 : Release Judgement
@@ -70,4 +69,27 @@ Meetings are **bad** for:
 : Effort estimations
 : Meetings with more than 4 attendees
 
-In my perception we have gotten much better at scheduling less unnecessary meetings, we have gotten better at compiling information ahead of time and sharing it before meetings. 
+In this time of 100% ZOOM meetings I now don't have to restrain myself, when I find a meeting to be pointless and a waste of time I can blatantly face-palm - the difference between openly insulting behavior and indifference is just on "turn off video" button click away. That's great for me, because I like to face palm a lot, there's something liberating about the act of reenacting a meme, like a performance just for yourself.
+
+Now I have this new, amazing face-palm-power at my disposal, yet I don't use it as much as I expected. In my perception we are much better at scheduling & conducting good meetings than in the before times. In particular the preparation & information sharing before the meeting has improved greatly - I don't recall the last meeting without an agenda. I do recall many in the before times.
+
+## Working on your own at home is hard
+
+We all expected problems. 
+
+First went through the honeymoon period of remote work: giddily enjoying no-pants-meetings, getting more rest from sleeping in instead of commuting and feeling half-guilty-half-happy about skipping shower and makeup/grooming yet another day ("I'll do it tomorrow, I promise" I lie to myself...). 
+
+Now some very real and unexpected problems have caught up with us. How's your back today? At the end of every day my lumbar spine feels like a dried up earthworm, scorched by the mid-summer sun. Barely anybody has a desk, chair and monitor setup that is meant for a full day of work (avid video gamers seem no be the rare exception). It's an easy problem we can solve with money - but only in some cases. Many have chosen an apartment or house that does not have the space for a proper work setup - that's just a reality of Tokyo real estate. If I had to chose between a living room sofa and a desk I'd go for the sofa 9 out of 8 times.
+
+If you are a manager: how are the March timesheets of your reports? I've heard from several managers, some throw up their hands in despair "How did this guy work 20 hours in a single day?!". People seem to are work more hours at home than in the office, or at least they log more hours. If you ask [Quora](https://www.quora.com/Do-remote-workers-work-longer-hours) you get a similar answer: When people start with remote work they often work longer hours. The main driver is a lack of structure, which allows work hours to expand into other parts of life. The [2019 State of Remote Work](https://buffer.com/state-of-remote-work-2019#) survey supports this, "unplugging after work" was the biggest struggle for remote workers.
+
+{{< figure src="https://static.buffer.com/marketing/public/img/pages/state-of-remote/biggest-stuggle-working-remotely-2019.png" width="80%" >}}
+
+In the remote work environment it is a lot harder for managers to protect their team from self-inflicted overwork. It's hard to know if people are taking the time to rest. In a recent ZOOM nomikai on a Friday night one of my team members frowned and said "I have to jump into this meeting..." only to get a rebuke from his manager. And rightfully so - the issue was not urgent, most probably not even important. He didn't attend that meeting. Nobody died, no one got hurt, no money was lost. Now how do we protect that person from that self destructive behavior? 🤷‍♀️
+
+## Communication = Good Writing
+
+
+## Presence != Control
+
+
