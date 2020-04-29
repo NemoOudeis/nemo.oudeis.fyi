@@ -1,5 +1,5 @@
 ---
-title:      What we learned about Work in Covid Times
+title:      Work @ Rakuten Tech in Covid Times
 date:       2020-04-24
 lastmod:    2020-04-24
 author:     Nemo Oudeis
@@ -32,9 +32,9 @@ However that moment of grand ideas and stroke of genius, that happens once every
 
 [^1]: Jason Fried goes even further and says ["Work Doesn't Happen at Work" in his TED talk](https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work/transcript?language=en)
 
-Personally I am in a privileged situation of: doing a lot of deep work, no kids around, decent sized apartment with desk and big monitor (my chair is a bit sucky but hey, I really can't complain) and I'm more on the introvert end of the spectrum. From my personal perspective this is the most productive and efficient time I spent working at Rakuten.
+Personally I am in a privileged situation of doing a lot of deep work, no kids around, decent sized apartment with desk and big monitor. And I'm more on the introvert end of the spectrum, which helps a lot. From my perspective this is the most productive and efficient time I spent working at Rakuten.
 
-In the teams I work with I see no significant shift in terms of output. I hear the same from manager within my department and in other departments as well. However I only spoke with people in technical departments, I have no idea how this affects the business-y work (which is the majority of the company).
+In the teams I work with I see no significant shift in terms of output. I hear the same from managers in other departments as well as from executives. However I only spoke with people in technical departments, I wonder how this affects the business-y work, which is the majority of the company.
 
 In the last 2 months I have seen several project progress significantly, all crowned by the internal release of a waterfall-y project we have been working on for over a year now. In terms of delivery covid didn't matter, work from home didn't stop us. We had some new infrastructure problems (e.g. it's hard to restart the mac mini CI machine remotely) - but no show stoppers.
 
@@ -89,7 +89,46 @@ In the remote work environment it is a lot harder for managers to protect their 
 
 ## Communication = Good Writing
 
+We realized this before. In collaborating with offices in India, USA and France - ad hoc meetings don't cut it. A mind map on a confluence page doesn't communicate requirements. A meeting without follow up communications/documents might as well not have happened at all - as far as outcomes are concerned. So we knew all this, we just did not apply it to our work within the Tokyo office, or at least to varying and very limited degree. As a result teams we tried to loosely couple teams in different geographies, along service or activity boundaries. Well defined, documented interfaces always worked better between offices. Integrating a well documented service is reasonable, no matter the geography of the developing team. A team that focuses on QA execution & automation or security audits - that works reasonably well. On the other end of the spectrum: A service that requires multiple meetings just to understand the onboarding process only works if we are in the same office. A service team with developers spread out across 4 different offices - that falls apart real quick without written communication. That's what we knew before the pandemic.
+
+Cut to the now - teams have more or less as many offices as they have team members. Synchronous meetings are possible, but not really effective for most activities. ad hoc meetings are much less frequent, even though they are easier now that they don't require finding a room or free space anymore. Small teams (say 2 pizzas) still work pretty well, they communicate constantly throughout the day on slack/teams/viber. On bigger teams a most of the ad hoc conversations -- in the hallway, on the way to get a coffee -- don't happen anymore. Requirements remain unclear, plans are not shared, expectations don't align. The only solution is to **write it down**. If you can't write it down you don't understand what you are trying to say - so forcing yourself to write it down will not just help the team, it will help you!
+
+However that is a weak spot in our organizational skillset and not part of the culture. Good written communication is necessary and recognized by tech teams and managers, for example it's a key part in how I argued my way into E ranks. With a handful of high quality, highly technical documents you wrote it is easy to argue that you are an expert. Yet we don't foster that skill enough. Large portions of Rakuten Tech are unable to write technical documentation that's usable by other teams, or to write requirements documents that communicate who wants what and why to the developers. Jeff Bezos told his employees in 2002 that every team will expose their functionality and data as a service. In product quality[^3].
+
+> "Anyone who doesn’t do this will be fired.  Thank you; have a nice day!" 
+> 
+> -- Jeff Bezos, 2002
+
+Rakuten Tech would not be able to do this now. Our technical writing literacy is just not there yet (to be fair: Amazon's skills were probably not there in 2002 as well). 
+
+With roughly 100% remote work in Rakuten Tech at the moment we really need to improve.
+
+[^3]: An impactful decree that shaped the company culture for decades, see [this blog post](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/)
 
 ## Presence != Control
+
+Rakuten is a large company with very diverse teams and cultures. In my time here I have been in 3 different departments (ignoring reorganizations), one more traditionally Japanese, one very much shaped cash-cow-e-commerce mindset and one more western and innovation oriented. I have been exposed to different management theories/philosophies and have heard the same from many coworkers in other departments. 
+
+Broadly I see 2 schools of thought: First the [scientific management](https://en.wikipedia.org/wiki/Scientific_management) people, who believe that tight control, checking in regularly and physical presence are necessary for high productivity (= a nice way of saying "don't trust employees"). The theory goes back to the industrial age when production was monotonous (humans were only necessary because we didn't have the technology to automate those tasks) and micro-management really improved productivity of a factory. The second is [servant leadership](https://en.wikipedia.org/wiki/Servant_leadership) which focuses on the empowerment of the team members in order to perform with maximum effectiveness and efficiency. This approach is less about control and more about enablement, managers check in to ask how they can resolve problems for the team, not to constantly get status reports from individuals. I have worked under both types of management regime and in my experience scientific management is really outdated in times of creative knowledge work[^4]. But there are still seem to be many followers of it unfortunately.
+
+[^4]: Thankfully I work in a pocket of servant leadership these days and I advocate for it in all the teams that I am involved in or support.
+
+This manifests itself in some managers requiring their teams be on a ZOOM call all day long - just so the managers can see them. This is so dystopian that it's not even funny anymore. Other companies do similar things[^5]. 
+
+[^5]: [Bank takes screenshots & logs keystrokes](https://twitter.com/danarel/status/1253324436402405376), [other companies selling spyware to employers](https://twitter.com/anejmehadzic/status/1253214729193033728)
+
+{{< figure src="https://pbs.twimg.com/media/EWSwqEAUMAAJ4X9?format=png" width="60%" >}}
+
+This is all very sad, the only upside is that I hear about it less and less, managers seem to come around (or teams don't complain about it anymore...). Most of us already knew that presence is not control and we are getting over that old cognitive illusion, one pandemic at a time.
+
+## Where do we go from here?
+
+So we have learned (some of us are maybe still learning) that...
+
+* We are just as effective working remotely, even if we work on a slightly different schedule. 
+* We never needed all those meetings - good riddance I say!
+* We really need a decent home office space
+* Our writing skills need to improve (...hello blogging...)
+* Presence only gave us the illusion of control. Let's grow up and become real managers!
 
 
