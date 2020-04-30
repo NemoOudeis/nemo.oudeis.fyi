@@ -44,9 +44,9 @@ Rakuten is a strong believer in the strict business hours, at least at the start
 
 Now that everyone working remotely most people actually don't need to be at their desk at 9 am, or finish work at 5:30 for that matter. If you have no meetings in the morning, nobody will notice if you start work by noon and work until 8:30 pm instead. I have a strong suspicion that many people are taking advantage of this flexibility that came as a side effect of working from home. I also suspect that nobody really notices and nobody is affected negatively by this.
 
-Will Rakuten Leadership remember this after covid is "over"? 
+Will Rakuten Leadership remember this after covid is "over"?
 
-## I've got so many meeting *hair toss* 
+## I've got so many meeting *hair toss*
 
 In some circles having a lot of meeting is a status symbol. More meetings = more better.
 
@@ -75,9 +75,11 @@ Now I have this new, amazing face-palm-power at my disposal, yet I don't use it 
 
 ## Working on your own at home is hard
 
-We all expected problems. 
+We all expected problems.
 
-First went through the honeymoon period of remote work: giddily enjoying no-pants-meetings, getting more rest from sleeping in instead of commuting and feeling half-guilty-half-happy about skipping shower and makeup/grooming yet another day ("I'll do it tomorrow, I promise" I lie to myself...). 
+> Working from home is becoming increasingly tough. I think I’m going to have to invest in a proper desk chair, new desk and another apartment. The kids are driving me crazy.
+
+First went through the honeymoon period of remote work: giddily enjoying no-pants-meetings, getting more rest from sleeping in instead of commuting and feeling half-guilty-half-happy about skipping shower and makeup/grooming yet another day ("I'll do it tomorrow, I promise" I lie to myself...).
 
 Now some very real and unexpected problems have caught up with us. How's your back today? At the end of every day my lumbar spine feels like a dried up earthworm, scorched by the mid-summer sun. Barely anybody has a desk, chair and monitor setup that is meant for a full day of work (avid video gamers seem no be the rare exception). It's an easy problem we can solve with money - but only in some cases. Many have chosen an apartment or house that does not have the space for a proper work setup - that's just a reality of Tokyo real estate. If I had to chose between a living room sofa and a desk I'd go for the sofa 9 out of 8 times.
 
