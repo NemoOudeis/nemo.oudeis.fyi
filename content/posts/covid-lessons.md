@@ -1,10 +1,19 @@
 ---
-title:      Work @ Rakuten Tech in Covid Times
-date:       2020-04-24
-lastmod:    2020-05-01
-author:     Nemo Oudeis
-draft:      false
+title:          Work @ Rakuten Tech in Covid Times
+date:           2020-04-24
+lastmod:        2020-05-01
+author:         Nemo Oudeis
+description:    Notes from working at Rakuten in Covid Times. What works, what doesn't and what we have learned.
+image:          covid-times.png
+draft:          false
 ---
+
+{{< 
+figure 
+src="/covid-times.png" 
+alt="Photo of abstract art." 
+width="70%" 
+>}}
 
 I haven't worked from the office since 20th of February, that's a little over 2 months. Most of my department in Rakuten hasn't been in the office in weeks/months, the one time I stopped by end of March to pickup a testing device and a big monitor. I met about 4 people out of ca. 70, the office is a ghost town, with tumbleweeds and all. We've all adjusted our lives significantly, we learned to cope as organization and as individuals. Now that we have somewhat adjusted and the memories of the before times are fading I think it's time to take inventory. How did we do? What did we learn? If we don't write it down now we won't remember.
 

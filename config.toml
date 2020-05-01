@@ -2,5 +2,9 @@ baseURL = "http://nemo.oudeis.fyi/"
 languageCode = "en-us"
 title = "Nemo Oudeis FYI"
 theme = "tale"
+[params]
+    author = "Nemo Oudeis"
+    image = "nemo.png"
 [Author]
     name = "Nemo Oudeis"
+    
