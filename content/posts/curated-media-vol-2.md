@@ -8,7 +8,7 @@ aliases:
   - /posts/cmv2
 ---
 
-The best of timeless media since [Volume 1](./cmv1). Everything is worth a read, listen or watch - good writng & good content. Enjoy!
+The best of timeless media since [Volume 1](../cmv1). Everything is worth a read, listen or watch - good writng & good content. Enjoy!
 
 # [The second bakery attack (short story)](http://web.mit.edu/norvin/www/somethingelse/murakami.html)
 

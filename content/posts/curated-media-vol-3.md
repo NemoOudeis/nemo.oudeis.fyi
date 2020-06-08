@@ -8,7 +8,7 @@ aliases:
   - /posts/cmv3
 ---
 
-The best of timeless media since [Volume 2](./cmv2). Everything is worth a read, listen or watch - good writng & good content. Enjoy!
+The best of timeless media since [Volume 2](../cmv2). Everything is worth a read, listen or watch - good writng & good content. Enjoy!
 
 ## [Open House (n+1)](https://nplusonemag.com/issue-36/essays/open-house/)
 
