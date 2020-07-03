@@ -56,18 +56,18 @@ My guy split the concerns and added the bouncer code, resulting in the below:
 
 ```kotlin
 const val DEEPLINK_HOST = "our.deeplink.host.fyi"
-const val DEEPLINK_SHEMA = "deeplink-schema"
+const val DEEPLINK_SCHEMA = "deeplink-schema"
 const val DEEPLINK_PATH = "/deepLinkPath"
 
 fun handleDeepLink(uri: Uri) {
     val schema: String? = uri.scheme ?: return
-    if (schema != DEEP_LINK_SCHEMA) {
+    if (schema != DEEPLINK_SCHEMA) {
         return
     }
 
     // Safety check for host
     val host: String = uri.host ?: return
-    if (host != DEEP_LINK_HOST) {
+    if (host != DEEPLINK_HOST) {
         return
     }
 
@@ -88,9 +88,9 @@ So we arrive at:
 
 ```kotlin
 fun handleDeepLink(uri: Uri) {
-    if (uri.scheme == DEEP_LINK_SCHEMA &&
-        uri.host == DEEP_LINK_HOST &&
-        uri.path === DEEP_LINK_PATH
+    if (uri.scheme == DEEPLINK_SCHEMA &&
+        uri.host == DEEPLINK_HOST &&
+        uri.path === DEEPLINK_PATH
     ) {
         println("do the thing!")
     }
