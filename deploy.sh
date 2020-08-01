@@ -1,5 +1,14 @@
 #!/usr/bin/env zsh
 
-rm -r public
+mkdir backup
+cp public/CNAME backup
+cp public/.gitignore backup
+cp -r public/.git backup
+rm -rf public
+mv backup public
+
 hugo
-gsutil -m rsync -R public gs://nemo.oudeis.fyi
+
+pushd public
+git add --all & git ci -m "publish" & git push
+popd

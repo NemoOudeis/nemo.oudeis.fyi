@@ -3,7 +3,7 @@ title:      "Emotions at Work: Ownership"
 author:     Nemo Oudeis
 date:       2018-10-20
 lastmod:    2018-09-10
-draft:      false
+draft:      true
 ---
 
 Some weeks are shit. I mean really shit. Come into work Monday, starting with a mindless morning meeting, all the way through a day chopped up by more meaningless meetings, annoyning emails and a constant stream of instant messanging interruptions. At the end of such a day I feel like I got nothing done, nothing worth working for at least. And it's rinse and repeat from there, the whole week. 😵
