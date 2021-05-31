@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Nemo Oudeis FYI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2020 17:03:01 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://nemo.oudeis.fyi/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reverse Engineer Your Manager</title>
+      <link>http://nemo.oudeis.fyi/posts/reverse-engineer-your-manager/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://nemo.oudeis.fyi/posts/reverse-engineer-your-manager/</guid>
+      <description>End of 2020 I gave a talk at DroidCon APAC 2020 titled “Reverse Engineer Your Manager” . The title is a bit tongue in cheek (how else will conference organizers notice your talk?), a more honest title would be: How to work successfully in a large (tech) organization. In the talk I give 5 directives for career success.
+Everything is based on my experience at Rakuten, moving through engineering ranks from application developer to principal application architect.</description>
+    </item>
     
     <item>
       <title>Make It Explicit</title>
